@@ -3,8 +3,8 @@ import numpy as np
 from datetime import datetime, timedelta, UTC
 from binance.client import Client
 
-API_KEY = "1a65be7c8939dec713fed4b69a51fbd2f660981e530c22b72c64702ac4b456c5"
-API_SECRET = "9776787bddef6f0242e2009b1f078affd01a3747293cdd21b0716b8d5f0ae911"
+API_KEY = "Add Binance futures testnet api key here"
+API_SECRET = "Add Binance futures testnet Secret key here"
 LIQUIDITY_WALL_THRESHOLD = 0.3
 HISTORICAL_DAYS = 365
 
