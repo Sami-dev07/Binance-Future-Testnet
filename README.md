@@ -1,4 +1,4 @@
-# Binance Futures Testnet Backtester
+# Binance Futures Testnet
 
 This is a small **side project** script for experimenting with a simple signal + backtesting idea on **Binance USDT-M Futures testnet** market data.
 
@@ -55,7 +55,7 @@ python "Binance Testnet.py"
 
 The script prints progress and summary tables in the console, then writes the CSV outputs into the same folder.
 
-## Configuration (in the script)
+## Configuration
 
 - `COINS`: symbols to test (the script also filters to valid futures symbols)
 - `HISTORICAL_DAYS`: how many days of data to request
